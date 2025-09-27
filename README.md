@@ -22,7 +22,6 @@ Projeto criado como prática de estudo em desenvolvimento mobile multiplataforma
     npm start
     ou
     npm expo start
-📖 Créditos
 
 ## 📸 Screenshots
 
@@ -33,6 +32,7 @@ Projeto criado como prática de estudo em desenvolvimento mobile multiplataforma
 <img src="./screenshots/conversao.jpg" width="300"/>
 
 
+## 📖 Créditos
 
 ## Este projeto foi desenvolvido com base no vídeo:
 
