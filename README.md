@@ -27,10 +27,10 @@ Projeto criado como prática de estudo em desenvolvimento mobile multiplataforma
 ## 📸 Screenshots
 
 ### Tela inicial
-![Tela inicial](./screenshots/home.jpg)
+<img src="./screenshots/home.jpg" width="300"/>
 
 ### Conversão de moedas
-![Conversão](./screenshots/conversao.jpg)
+<img src="./screenshots/conversao.jpg" width="300"/>
 
 
 
