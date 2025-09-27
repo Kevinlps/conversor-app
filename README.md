@@ -23,7 +23,21 @@ Projeto criado como prática de estudo em desenvolvimento mobile multiplataforma
     ou
     npm expo start
 📖 Créditos
-Este projeto foi desenvolvido com base no vídeo:
-CRIANDO APLICATIVOS iPhone e Android DO ZERO | Curso completo de REACT NATIVE + EXPO - DevClub | Programação
+
+## 📸 Screenshots
+
+### Tela inicial
+![Tela inicial](./screenshots/home.jpg)
+
+### Conversão de moedas
+![Conversão](./screenshots/conversao.jpg)
+
+
+
+## Este projeto foi desenvolvido com base no vídeo:
+
+CRIANDO APLICATIVOS iPhone e Android DO ZERO | Curso completo de REACT 
+
+NATIVE + EXPO - DevClub | Programação
 
 Feito por Kevin Lopes Costa ✨
